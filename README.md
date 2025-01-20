@@ -5,7 +5,7 @@ Welcome to the **Nike E-Commerce Website**, a sleek and modern online store that
 
 ## 🚀 Live Demo
 
-Check out the live version of the project:   
+Check out the live version of the project:   https://nike-e-com.vercel.app/
 
 ---
 
@@ -67,7 +67,7 @@ Follow these steps to run the project locally:
 
 We welcome contributions to improve this project. To contribute:
 
-1. Fork the repository. https://github.com/AyeshaNasirWebDeveloper/Nike-E-Commerce.git
+1. Fork the repository. https://github.com/AyeshaNasirWebDeveloper/Nike-E-Com.git
 2. Create a feature branch: `git checkout -b feature-name`.
 3. Commit your changes: `git commit -m 'Add some feature'`.
 4. Push to the branch: `git push origin feature-name`.
